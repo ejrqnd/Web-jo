@@ -2,7 +2,7 @@ git - 버전관리
 
 
 
-
+https://www.notion.so/A-325d2644d1bf801abfdde6eaca7661b1
 
 
 git add "파일이름" -> 해당 파일만 추가
